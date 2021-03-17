@@ -8,7 +8,7 @@ done
 echo
 echo 'snapchat : aaa.saq       Twitter : r00t_nasser'
 echo
-nmap -A -sT -T4 $site >> log/network.txt
+nmap -sT -T4 --top-ports 200 $site >> log/network.txt
 echo 
 echo '[+] Network Discoviry Done'
 echo
