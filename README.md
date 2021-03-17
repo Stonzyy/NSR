@@ -1,9 +1,10 @@
 # NSR 
 
-Bugbounty Tool For Web Recon And Discoviry Content .
+Bugbounty Tool For Full Web Recon . 
 
 This Tool Creat By Saudi Security Researcher 
 
+Help Bugbounty Hunter To Find vulnerability and more ....
 
 # install
 
