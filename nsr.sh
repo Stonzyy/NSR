@@ -5,7 +5,9 @@ while getopts "u:" arg; do
     u) site=$OPTARG;;
   esac
 done
-
+echo
+echo 'snapchat : aaa.saq       Twitter : r00t_nasser'
+echo
 nmap -A -sT -T4 $site >> log/network.txt
 echo 
 echo '[+] Network Discoviry Done'
