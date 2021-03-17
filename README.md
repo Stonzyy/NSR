@@ -8,7 +8,7 @@ Help Bugbounty Hunter To Find vulnerability and more ....
 
 # install
 
-1 - https://github.com/Stonzyy/NSR; cd NSR
+1 - git clone https://github.com/Stonzyy/NSR.git; cd NSR
 
 2 - chmod +x install.sh
 
