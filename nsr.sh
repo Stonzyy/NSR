@@ -27,3 +27,6 @@ echo
 
 
 gobuster dir -u $site -t 50 -w list.txt -l -e -x php,rar,zip,gz,asp,apsx 2>/dev/null > log/path.txt
+
+echo '[+] Path Discoviry Done '
+
