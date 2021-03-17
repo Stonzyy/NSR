@@ -27,3 +27,9 @@ Snapchat : https://www.snapchat.com/add/aaa.saq
 ./nsr.sh -u example.com
 
 
+
+
+# Simple Tutorial
+
+https://user-images.githubusercontent.com/33039121/111513031-c2b3c380-8726-11eb-896f-2da963ee73eb.mp4
+
